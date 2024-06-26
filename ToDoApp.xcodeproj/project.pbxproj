@@ -11,6 +11,7 @@
 		C300BD0F2C2C869500823EF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C300BD0E2C2C869500823EF7 /* ContentView.swift */; };
 		C300BD112C2C869600823EF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C300BD102C2C869600823EF7 /* Assets.xcassets */; };
 		C300BD142C2C869600823EF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C300BD132C2C869600823EF7 /* Preview Assets.xcassets */; };
+		C300BD1B2C2C8A3000823EF7 /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C300BD1A2C2C8A3000823EF7 /* NewToDoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C300BD0E2C2C869500823EF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C300BD102C2C869600823EF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C300BD132C2C869600823EF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C300BD1A2C2C8A3000823EF7 /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C300BD0C2C2C869500823EF7 /* ToDoAppApp.swift */,
 				C300BD0E2C2C869500823EF7 /* ContentView.swift */,
+				C300BD1A2C2C8A3000823EF7 /* NewToDoView.swift */,
 				C300BD102C2C869600823EF7 /* Assets.xcassets */,
 				C300BD122C2C869600823EF7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C300BD1B2C2C8A3000823EF7 /* NewToDoView.swift in Sources */,
 				C300BD0F2C2C869500823EF7 /* ContentView.swift in Sources */,
 				C300BD0D2C2C869500823EF7 /* ToDoAppApp.swift in Sources */,
 			);
